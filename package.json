@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/sandeepsajiru/nodeAuth#readme",
   "dependencies": {
-    "express": "^4.13.3"
+    "crypto": "0.0.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.3.0",
+    "node-uuid": "^1.4.7"
   }
 }
