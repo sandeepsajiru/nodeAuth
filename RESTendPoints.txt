@@ -6,9 +6,17 @@ POST	http://localhost:30000/api/account/register
 	lastName
 
 POST	http://localhost:30000/api/account/logon
-		
+	email
+	password		
 
 POST	http://localhost:30000/api/account/logoff
 GET	http://localhost:30000/api/account/logoff
+
 POST	http://localhost:30000/api/account/resetpassword
+	email
+
 POST	http://localhost:30000/api/account/resetpasswordfinal
+	email
+	newPassword
+	newPasswordConfirm	
+	passwordResetHash
