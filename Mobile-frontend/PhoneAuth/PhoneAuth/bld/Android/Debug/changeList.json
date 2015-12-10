@@ -316,7 +316,11 @@
     "www\\account-locked.html",
     "www\\sign-up.html",
     "www\\begin-password-reset.html",
-    "www\\end-password-reset.html"
+    "www\\end-password-reset.html",
+    "www\\scripts\\js\\settings.js",
+    "www\\scripts\\js\\api-messages.js",
+    "www\\scripts\\js\\sign-up.js",
+    "www\\signup-succeeded.html"
   ],
   "deletedFilesIos": [
     "Scripts\\jquery-2.1.4-vsdoc.js",
@@ -545,17 +549,13 @@
     "Scripts\\jquery-2.1.4.js",
     "Scripts\\jquery-2.1.4.min.js",
     "Scripts\\jquery.mobile-1.4.5.min.js",
-    "Scripts\\jquery.mobile-1.4.5.js"
+    "Scripts\\jquery.mobile-1.4.5.js",
+    "www\\scripts\\settings.js"
   ],
   "addedPluginsIos": [],
   "deletedPluginsIos": [],
   "changedFiles": [
-    "www\\sign-in.html",
-    "www\\account-locked.html",
-    "www\\index.html",
-    "www\\sign-up.html",
-    "www\\begin-password-reset.html",
-    "www\\end-password-reset.html"
+    "www\\sign-up.html"
   ],
   "deletedFiles": [],
   "addedPlugins": [],
