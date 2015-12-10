@@ -1,0 +1,22 @@
+{
+  "name": "nodeauth",
+  "version": "1.0.0",
+  "description": "User Registration, Authentication and Password Retrieval.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepsajiru/nodeAuth.git"
+  },
+  "author": "sandeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepsajiru/nodeAuth/issues"
+  },
+  "homepage": "https://github.com/sandeepsajiru/nodeAuth#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
