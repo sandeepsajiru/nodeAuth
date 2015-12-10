@@ -1,0 +1,14 @@
+POST	http://localhost:30000/api/account/register
+	email
+	password
+	passwordConfirm
+	firstName
+	lastName
+
+POST	http://localhost:30000/api/account/logon
+		
+
+POST	http://localhost:30000/api/account/logoff
+GET	http://localhost:30000/api/account/logoff
+POST	http://localhost:30000/api/account/resetpassword
+POST	http://localhost:30000/api/account/resetpasswordfinal
